@@ -6,3 +6,8 @@ My Code:
 ``` javascript
 var myVar = "Hello Tariq!";
 ```
+
+Task List: 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
